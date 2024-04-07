@@ -2,7 +2,7 @@
 layout: post
 title:  "1. 싱글톤(Singleton) 패턴"
 date:   2024-04-07 14:30:00 +0900
-categories: Design Pattern
+categories: Design_Pattern
 ---
 
 # 1. 싱글톤(Singleton) 패턴
