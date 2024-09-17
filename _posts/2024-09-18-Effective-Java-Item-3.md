@@ -15,7 +15,7 @@ There are three ways to implement a Singleton, and I’d like to introduce two o
 
 Both ways are based on using a private constructor and a public static member.
 
-1. Private constructor and Static final field
+- Private constructor and Static final field
 
 ```java
 public class Elvis {
@@ -28,7 +28,7 @@ The private constructor is called only once when the INSTANCE is initialized, en
 
 <br>
 
-2. Private constructor and Public Static Factory Method
+- Private constructor and Public Static Factory Method
 
 ```java
 public class Elvis {
