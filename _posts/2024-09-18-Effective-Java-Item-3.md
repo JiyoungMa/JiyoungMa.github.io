@@ -5,8 +5,6 @@ date:   2024-09-18 01:09:00 +0900
 categories: EffectiveJava
 ---
 
-# 3.Enforce the singleton property with a private constructor or an enum type
-
 A Singleton is a class that is instantiated only once, such as a system component that should be unique. One downside of the Singleton is that it can be difficult to test, as creating mock instances of a Singleton class is challenging.
 
 There are three ways to implement a Singleton, and I’d like to introduce two of them together, as they share many similarities.
